@@ -11,7 +11,7 @@ I've been working as frontent developer but now learning backend.
 * ✉️  You can contact me at [el12guitar@gmail.com](mailto:el12guitar@gmail.com)
 * 🚀  I'm currently working on [Simbirsoft](http://www.simbirsoft.com/en/)
 * 🧠  I'm learning Java, Sping, Angular
-* 🤝  I'm open to collaborating on Frontent, Backenf
+* 🤝  I'm open to collaborating on Frontent, Backend
 * ⚡  I love code!
 
 ### Skills
