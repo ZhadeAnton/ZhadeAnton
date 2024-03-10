@@ -9,7 +9,7 @@ I've been working as frontent developer but now learning backend.
 * 🌍  I'm based in Krasnodar
 * 🖥️  See my portfolio at [Github](http://github.com/ZhadeAnton)
 * ✉️  You can contact me at [el12guitar@gmail.com](mailto:el12guitar@gmail.com)
-* 🚀  I'm currently working on [Simbirsoft](http://www.simbirsoft.com/en/)
+* 🚀  I'm currently working on [Podeli](https://podeli.ru/)
 * 🧠  I'm learning Java, Sping, Angular
 * 🤝  I'm open to collaborating on Frontend, Backend
 * ⚡  I love code!
